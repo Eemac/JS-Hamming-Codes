@@ -1,4 +1,5 @@
 //A program to calculate, add noise to, and decode 7,4 hamming codes
+//NOTE: there is an error in the decode matrix, so this code will not work properly.
 //Binary input string of length 4
 let i = 0b0101;
 
